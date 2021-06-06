@@ -310,6 +310,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f68a536445e428d4a9290b8ff33c9d5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pos: {x: 0, y: 0, z: 0}
+  xSpeed: 10
+  ySpeed: 10
+  zSpeed: 1
 --- !u!1 &1642921914
 GameObject:
   m_ObjectHideFlags: 0
